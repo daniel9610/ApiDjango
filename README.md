@@ -15,7 +15,7 @@
 - Llenar la base de datos (sé que debí hacerlo con seeds pero no me alcanzó el tiempo).
 
 # End-Points
-* Las inserciones desde el api se pueden hacer con los formularios de djangoRestFramework, si desean hacerlo desde url también se peuede hacer.
+* Las inserciones desde el api se pueden hacer con los formularios de djangoRestFramework, si desean hacerlo desde url también se puede hacer.
 
 # Clientes
 - http://localhost:puerto/clients:              Lista todos los clientes
